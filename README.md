@@ -3,6 +3,12 @@ Now that I have made a custom Flipper, I use create some accessories for it to g
 
 A custom expansion board for the Flipper Zero that adds WiFi capability and a high-power IR blaster, designed with safety, flexibility, and future expansion in mind.
 
+This project was designed specifically for my custom Flipper Zero build, which can be found here:
+https://github.com/aaakum4/Sorta-Flipper-Zero
+
+While the designs and files are shared openly, they should not be blindly copied or connected to a stock Flipper Zero without understanding the electrical implications. Component choices, power rails, and protection methods were selected with my particular setup and use case in mind.
+If you choose to reuse or adapt any part of this project, please make sure it will work with whatever device you are using.
+
 ## Overview
 This project combines two main subsystems:
 - A WiFi board built around the ESP32-S2-WROVER-N4R2 for networking and future firmware experiments
