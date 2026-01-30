@@ -1,2 +1,35 @@
 # Flipper-Accessories
 Now that I have made a custom Flipper, I use create some accessories for it to go with.
+
+A custom expansion board for the Flipper Zero that adds WiFi capability and a high-power IR blaster, designed with safety, flexibility, and future expansion in mind.
+
+## Overview
+This project combines two main subsystems:
+- A WiFi board built around the ESP32-S2-WROVER-N4R2 for networking and future firmware experiments
+- A 960 nm IR blaster designed for high-power pulsed output while keeping the Flipper electrically isolated
+
+The goal wasn’t just to make something that works, but to make something that’s understandable, modifiable, and safe to plug into a Flipper.
+
+## The WiFi Board
+The WiFi side uses the ESP32-S2-WROVER-N4R2, which offered more than enough performance without being unnecessarily complex. Since this board is meant to be reused and extended, several design choices were made with development and debugging in mind:
+- Spare GPIO pins left uncommitted for future features
+- JTAG and UART exposed for debugging and flashing
+- Dedicated BOOT and RESET buttons to avoid relying on awkward software-only recovery
+
+Rather than pushing for maximum performance, the focus here was reliability, ease of development, and not boxing the design into a single use case.
+
+## IR Blaster
+The IR blaster uses seven 960 nm IR LEDs, arranged as three series pairs plus one standalone LED, which allowed higher optical output while still working comfortably from a 5 V rail.
+
+A logic-level MOSFET is used for switching instead of a transistor, keeping all high current paths away from the Flipper’s GPIO pins and allowing clean, efficient pulsed operation. The circuit is intended for modulated IR (rather than continuous drive), which makes higher peak currents practical without excessive heat.
+
+This part of the design involved a lot of trade-offs around current, voltage, and safety, and ended up being more conceptually challenging than the WiFi board despite using fewer components.
+
+## Safety & Protection
+A core design requirement was ensuring that the Flipper Zero is not put at risk, even in the event of a fault or design mistake. To that end:
+- GPIO pins are only ever used as logic-level control signals
+- High-current loads are fully isolated using switching components
+- Current is limited where appropriate
+- No direct power paths exist that could back-feed into the Flipper
+
+The aim was to make the board something you can plug in without constantly worrying about damaging the host device.
