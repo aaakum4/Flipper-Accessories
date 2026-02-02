@@ -11288,7 +11288,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 43.942 91.44 90)
 			(effects
 				(font
@@ -11422,7 +11422,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 39.0652 232.41 0)
 			(effects
 				(font
@@ -11491,7 +11491,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 346.202 100.33 90)
 			(effects
 				(font
@@ -11625,7 +11625,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 263.8552 38.1 0)
 			(effects
 				(font
@@ -11694,7 +11694,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 123.19 219.71 0)
 			(effects
 				(font
@@ -11775,7 +11775,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 261.112 100.33 90)
 			(effects
 				(font
@@ -11843,7 +11843,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_Avago_PLCC6_3x2.8mm"
 			(at 30.48 181.61 0)
 			(effects
 				(font
@@ -11922,7 +11922,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 170.18 60.198 90)
 			(effects
 				(font
@@ -12119,7 +12119,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 43.18 186.182 90)
 			(effects
 				(font
@@ -12191,7 +12191,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 			(at 393.7 91.44 0)
 			(effects
 				(font
@@ -12281,7 +12281,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 389.382 100.33 90)
 			(effects
 				(font
@@ -12415,7 +12415,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 172.72 71.12 0)
 			(effects
 				(font
@@ -12493,7 +12493,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 366.522 100.33 90)
 			(effects
 				(font
@@ -12565,7 +12565,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 			(at 350.52 91.44 0)
 			(effects
 				(font
@@ -12605,13 +12605,13 @@
 			(uuid "62cb67eb-12ac-43d2-9a4b-544abe657a2c")
 		)
 		(pin "5"
-			(uuid "f58c51de-fc0e-4df5-a9f7-57fd34119d6e")
+			(uuid "f58c51de-fc0e-4df5-a9f7-57fd34119d6f")
 		)
 		(pin "3"
-			(uuid "a6806823-0c87-48d9-b9fd-49ab5fe4c366")
+			(uuid "a6806823-0c87-48d9-b9fd-49ab5fe4c367")
 		)
 		(pin "4"
-			(uuid "b291e9f3-f5b9-4704-9e11-c7bcb727c371")
+			(uuid "b291e9f3-f5b9-4704-9e11-c7bcb727c372")
 		)
 		(pin "6"
 			(uuid "115364d2-bbc4-4511-b32e-2386483e74ef")
@@ -12655,7 +12655,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 111.4552 31.75 0)
 			(effects
 				(font
@@ -12724,7 +12724,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 303.022 100.33 90)
 			(effects
 				(font
@@ -12793,7 +12793,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 323.342 100.33 90)
 			(effects
 				(font
@@ -13118,7 +13118,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 248.92 71.12 0)
 			(effects
 				(font
@@ -13267,7 +13267,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 			(at 265.43 91.44 0)
 			(effects
 				(font
@@ -13307,13 +13307,13 @@
 			(uuid "4a6a25f0-7b3d-4489-a0a1-08c3f03953da")
 		)
 		(pin "5"
-			(uuid "f58c51de-fc0e-4df5-a9f7-57fd34119d6e")
+			(uuid "f58c51de-fc0e-4df5-a9f7-57fd34119d70")
 		)
 		(pin "3"
-			(uuid "a6806823-0c87-48d9-b9fd-49ab5fe4c366")
+			(uuid "a6806823-0c87-48d9-b9fd-49ab5fe4c368")
 		)
 		(pin "4"
-			(uuid "b291e9f3-f5b9-4704-9e11-c7bcb727c371")
+			(uuid "b291e9f3-f5b9-4704-9e11-c7bcb727c373")
 		)
 		(pin "6"
 			(uuid "09356047-b233-421b-bc23-0cd2b655c488")
@@ -13487,7 +13487,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 114.3 209.55 0)
 			(effects
 				(font
@@ -13567,7 +13567,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-223"
 			(at 250.19 22.86 0)
 			(effects
 				(font
@@ -13638,7 +13638,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 43.18 181.102 90)
 			(effects
 				(font
@@ -13970,7 +13970,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 174.9552 40.64 0)
 			(effects
 				(font
@@ -14106,7 +14106,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 			(at 237.49 91.44 0)
 			(effects
 				(font
@@ -14260,7 +14260,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 199.39 64.262 90)
 			(effects
 				(font
@@ -14460,7 +14460,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 199.39 59.182 90)
 			(effects
 				(font
@@ -14529,7 +14529,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 238.4552 38.1 0)
 			(effects
 				(font
@@ -14600,7 +14600,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 			(at 322.58 91.44 0)
 			(effects
 				(font
@@ -14637,7 +14637,7 @@
 			)
 		)
 		(pin "2"
-			(uuid "4240eb0e-7457-443d-93c6-43977ba2cb33")
+			(uuid "4240eb0e-7457-443d-93c6-43977ba2cb34")
 		)
 		(pin "4"
 			(uuid "3bc7b839-3583-4c8a-b764-a47a3ccfaaee")
@@ -14649,10 +14649,10 @@
 			(uuid "6ff67a05-6bf4-4da5-90ac-c261102c88a5")
 		)
 		(pin "1"
-			(uuid "237a6cb0-9fb4-4cb5-99b3-792cc5669a7d")
+			(uuid "237a6cb0-9fb4-4cb5-99b3-792cc5669a7e")
 		)
 		(pin "6"
-			(uuid "470bfeb0-00fa-4c46-ae8a-fe837dea8356")
+			(uuid "470bfeb0-00fa-4c46-ae8a-fe837dea8357")
 		)
 		(instances
 			(project "Flipper Zero Wifi Module"
@@ -14690,7 +14690,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 133.35 162.56 0)
 			(effects
 				(font
@@ -14900,7 +14900,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 			(at 279.4 91.44 0)
 			(effects
 				(font
@@ -14937,7 +14937,7 @@
 			)
 		)
 		(pin "2"
-			(uuid "4240eb0e-7457-443d-93c6-43977ba2cb33")
+			(uuid "4240eb0e-7457-443d-93c6-43977ba2cb35")
 		)
 		(pin "4"
 			(uuid "55bbbd4c-d491-4a19-939c-24ae57786ea0")
@@ -14949,10 +14949,10 @@
 			(uuid "e4047e8b-0db5-47ff-9275-4f09a40af323")
 		)
 		(pin "1"
-			(uuid "237a6cb0-9fb4-4cb5-99b3-792cc5669a7d")
+			(uuid "237a6cb0-9fb4-4cb5-99b3-792cc5669a7f")
 		)
 		(pin "6"
-			(uuid "470bfeb0-00fa-4c46-ae8a-fe837dea8356")
+			(uuid "470bfeb0-00fa-4c46-ae8a-fe837dea8358")
 		)
 		(instances
 			(project "Flipper Zero Wifi Module"
@@ -14990,7 +14990,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 280.162 100.33 90)
 			(effects
 				(font
@@ -15122,7 +15122,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 109.982 232.41 90)
 			(effects
 				(font
@@ -15582,7 +15582,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 43.18 176.022 90)
 			(effects
 				(font
@@ -15714,7 +15714,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 203.962 54.61 90)
 			(effects
 				(font
@@ -15783,7 +15783,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 99.06 162.56 0)
 			(effects
 				(font
@@ -16074,7 +16074,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 53.34 256.54 0)
 			(effects
 				(font
@@ -16143,7 +16143,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 120.3452 31.75 0)
 			(effects
 				(font
@@ -16341,7 +16341,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 377.19 71.12 0)
 			(effects
 				(font
@@ -16420,7 +16420,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 36.322 256.54 90)
 			(effects
 				(font
@@ -16571,7 +16571,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 118.872 232.41 90)
 			(effects
 				(font
@@ -16706,7 +16706,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 170.18 52.578 90)
 			(effects
 				(font
@@ -16845,7 +16845,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 			(at 365.76 91.44 0)
 			(effects
 				(font
@@ -16882,7 +16882,7 @@
 			)
 		)
 		(pin "2"
-			(uuid "4240eb0e-7457-443d-93c6-43977ba2cb33")
+			(uuid "4240eb0e-7457-443d-93c6-43977ba2cb36")
 		)
 		(pin "4"
 			(uuid "65e7b7fb-b9b4-40f2-a243-252623294d24")
@@ -16894,10 +16894,10 @@
 			(uuid "90cd735c-1201-4f72-bd93-369c32eded45")
 		)
 		(pin "1"
-			(uuid "237a6cb0-9fb4-4cb5-99b3-792cc5669a7d")
+			(uuid "237a6cb0-9fb4-4cb5-99b3-792cc5669a80")
 		)
 		(pin "6"
-			(uuid "470bfeb0-00fa-4c46-ae8a-fe837dea8356")
+			(uuid "470bfeb0-00fa-4c46-ae8a-fe837dea8359")
 		)
 		(instances
 			(project "Flipper Zero Wifi Module"
@@ -17050,7 +17050,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
 			(at 147.32 73.66 0)
 			(effects
 				(font
@@ -17180,7 +17180,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 36.322 218.44 90)
 			(effects
 				(font
@@ -17247,7 +17247,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 106.68 206.248 90)
 			(effects
 				(font
@@ -17314,7 +17314,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 140.462 172.72 90)
 			(effects
 				(font
@@ -17382,7 +17382,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 290.83 71.12 0)
 			(effects
 				(font
@@ -17526,7 +17526,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 96.52 213.868 90)
 			(effects
 				(font
@@ -17658,7 +17658,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 104.902 172.72 90)
 			(effects
 				(font
@@ -17795,7 +17795,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 			(at 307.34 91.44 0)
 			(effects
 				(font
@@ -17835,13 +17835,13 @@
 			(uuid "c77bb5fa-0ccb-4663-9b56-197d4d756daa")
 		)
 		(pin "5"
-			(uuid "f58c51de-fc0e-4df5-a9f7-57fd34119d6e")
+			(uuid "f58c51de-fc0e-4df5-a9f7-57fd34119d71")
 		)
 		(pin "3"
-			(uuid "a6806823-0c87-48d9-b9fd-49ab5fe4c366")
+			(uuid "a6806823-0c87-48d9-b9fd-49ab5fe4c369")
 		)
 		(pin "4"
-			(uuid "b291e9f3-f5b9-4704-9e11-c7bcb727c371")
+			(uuid "b291e9f3-f5b9-4704-9e11-c7bcb727c374")
 		)
 		(pin "6"
 			(uuid "c8994bb9-ca14-42e6-8cfa-7336ba4a4e77")
@@ -17884,7 +17884,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 53.34 218.44 0)
 			(effects
 				(font
@@ -18019,7 +18019,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 165.1 71.12 0)
 			(effects
 				(font
@@ -18294,7 +18294,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 238.252 100.33 90)
 			(effects
 				(font
@@ -18364,7 +18364,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical"
 			(at 200.66 234.95 0)
 			(effects
 				(font
@@ -18455,7 +18455,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical"
 			(at 195.58 166.37 0)
 			(effects
 				(font
@@ -18640,7 +18640,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 163.83 36.83 0)
 			(effects
 				(font
@@ -18782,7 +18782,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 334.01 71.12 0)
 			(effects
 				(font

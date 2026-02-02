@@ -2097,7 +2097,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 20.32 138.43 0)
 			(effects
 				(font
@@ -2176,7 +2176,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 58.42 125.73 0)
 			(effects
 				(font
@@ -2255,7 +2255,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 77.47 125.73 0)
 			(effects
 				(font
@@ -2334,7 +2334,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 18.542 125.73 90)
 			(effects
 				(font
@@ -2654,7 +2654,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 39.37 138.43 0)
 			(effects
 				(font
@@ -2733,7 +2733,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 37.592 115.57 90)
 			(effects
 				(font
@@ -2803,7 +2803,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 75.692 115.57 90)
 			(effects
 				(font
@@ -2873,7 +2873,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 56.642 115.57 90)
 			(effects
 				(font
@@ -2943,7 +2943,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 77.47 138.43 0)
 			(effects
 				(font
@@ -3087,7 +3087,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 80.01 160.02 0)
 			(effects
 				(font
@@ -3226,7 +3226,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 58.42 138.43 0)
 			(effects
 				(font
@@ -3305,7 +3305,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 56.388 168.91 90)
 			(effects
 				(font
@@ -3439,7 +3439,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 60.96 164.338 90)
 			(effects
 				(font
@@ -3509,7 +3509,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 39.37 125.73 0)
 			(effects
 				(font
