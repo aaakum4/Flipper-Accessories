@@ -39,3 +39,15 @@ A core design requirement was ensuring that the Flipper Zero is not put at risk,
 - No direct power paths exist that could back-feed into the Flipper
 
 The aim was to make the board something you can plug in without constantly worrying about damaging the host device.
+
+## Making the PCB
+Here is the final Wifi PCB:
+<img width="1308" height="684" alt="image" src="https://github.com/user-attachments/assets/5ea5646b-a5a6-4113-880f-4478cdf6ca4e" />
+
+<img width="1944" height="1160" alt="image" src="https://github.com/user-attachments/assets/788b7fd7-695b-4556-8315-ed992370c3c5" />
+
+
+Here is the final IR Blaster PCB:
+<img width="1378" height="420" alt="image" src="https://github.com/user-attachments/assets/60415aa1-cf97-4ff2-ada6-129e91e6e853" />
+
+<img width="1990" height="872" alt="image" src="https://github.com/user-attachments/assets/d4a6bce3-a25b-46a9-9a48-5e71a3b4f939" />
