@@ -51,3 +51,11 @@ Here is the final IR Blaster PCB:
 <img width="1378" height="420" alt="image" src="https://github.com/user-attachments/assets/60415aa1-cf97-4ff2-ada6-129e91e6e853" />
 
 <img width="1990" height="872" alt="image" src="https://github.com/user-attachments/assets/d4a6bce3-a25b-46a9-9a48-5e71a3b4f939" />
+
+## BOM
+For those interested in the part's I am using, here is the Bill of Materials. It doesnt include the MCU (since it was out of stock when I last check on JLCPCB) and the IR LED's, but any 940nm or 960nm IR LED will do as long as it is 5mm.
+<img width="678" height="817" alt="Screenshot 2026-02-03 at 1 41 27 pm" src="https://github.com/user-attachments/assets/39eb4007-33f8-4ba7-be82-8080b92103a5" />
+
+
+## Final Note
+Since this is a Flipper project, I feel like I must say that these devices shouldn't be use for any illgeal or unethical activities.
